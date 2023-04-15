@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 from transformers import AutoTokenizer, AutoModel
 from sentence_transformers import SentenceTransformer, util
 import torch
