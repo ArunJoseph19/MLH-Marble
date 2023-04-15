@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 import random
 import pandas as pd
 import en_core_web_sm
